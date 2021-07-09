@@ -1,0 +1,801 @@
+PERSONA;MARCA;ATRIBUTO;LUGAR COMPRA
+ADOLESCENTE;Guarana;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Inca Kola;Quita la sed;Cualquier lugar
+ADOLESCENTE;Inca Kola;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Inca Kola;Es una marca de calidad;Cualquier lugar
+ADOLESCENTE;Coca Cola;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Guarana;Es natural;Cualquier lugar
+ADOLESCENTE;Sprite;Quita la sed;Cualquier lugar
+ADOLESCENTE;Sprite;Es natural;Cualquier lugar
+ADOLESCENTE;Sprite;Tiene buen sabor;Cualquier lugar
+ADOLESCENTE;Fanta;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Coca Cola;Tiene garantía;Cualquier lugar
+ADOLESCENTE;Coca Cola;Es una marca de calidad;Cualquier lugar
+ADOLESCENTE;Coca Cola;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Pepsi;Tiene buen sabor;Cualquier lugar
+ADOLESCENTE;Guarana;Hace buenos descuentos;Cualquier lugar
+ADOLESCENTE;Pepsi;Tiene buenos canjes;Cualquier lugar
+ADOLESCENTE;Pepsi;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Guarana;Su publicidad es divertida;Delivery
+ADOLESCENTE;Sprite;Es para combinar con licor;Delivery
+ADOLESCENTE;Sprite;Es para combinar con licor;Delivery
+ADOLESCENTE;Sprite;Quita la sed;Delivery
+ADOLESCENTE;Sprite;Fácil de encontrar;Delivery
+ADOLESCENTE;Coca Cola;Es una marca de calidad;Delivery
+ADOLESCENTE;Guarana;Su publicidad es divertida;Delivery
+ADOLESCENTE;Inca Kola;Es para combinar con licor;Delivery
+ADOLESCENTE;Inca Kola;Su publicidad es divertida;Delivery
+ADOLESCENTE;Inca Kola;Es natural;Delivery
+ADOLESCENTE;Guarana;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Pepsi;Fácil de encontrar;Cualquier lugar
+ADOLESCENTE;Pepsi;Es natural;Cualquier lugar
+ADOLESCENTE;Sprite;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Sprite;Es natural;Cualquier lugar
+ADOLESCENTE;Fanta;Hace buenos descuentos;Cualquier lugar
+ADOLESCENTE;Fanta;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Coca Cola;Tiene garantía;Cualquier lugar
+ADOLESCENTE;Inca Kola;Es una marca de calidad;Cualquier lugar
+ADOLESCENTE;Guarana;Fácil de encontrar;Cualquier lugar
+ADOLESCENTE;Inca Kola;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Inca Kola;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Pepsi;Es natural;Cualquier lugar
+ADOLESCENTE;Guarana;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Sprite;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Sprite;Es natural;Cualquier lugar
+ADOLESCENTE;Sprite;Tiene buen sabor;Cualquier lugar
+ADOLESCENTE;Fanta;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Fanta;Hace buenos descuentos;Cualquier lugar
+ADOLESCENTE;Guarana;Es una marca de calidad;Cualquier lugar
+ADOLESCENTE;Coca Cola;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Guarana;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Coca Cola;Tiene garantía;Cualquier lugar
+ADOLESCENTE;Pepsi;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Guarana;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Guarana;Es natural;Cualquier lugar
+ADOLESCENTE;Sprite;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Sprite;Es natural;Cualquier lugar
+ADOLESCENTE;Sprite;Quita la sed;Cualquier lugar
+ADOLESCENTE;Inca Kola;Es una marca peruana;Cualquier lugar
+ADOLESCENTE;Sprite;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Coca Cola;Quita la sed;Cualquier lugar
+ADOLESCENTE;Sprite;Tiene buen sabor;Cualquier lugar
+ADOLESCENTE;Sprite;Es natural;Cualquier lugar
+ADOLESCENTE;Inca Kola;Tiene garantía;Cualquier lugar
+ADOLESCENTE;Inca Kola;Es una marca de calidad;Delivery
+ADOLESCENTE;Inca Kola;Es para combinar con licor;Delivery
+ADOLESCENTE;Pepsi;Tiene buenos canjes;Delivery
+ADOLESCENTE;Sprite;Es natural;Delivery
+ADOLESCENTE;Fanta;Es para combinar con licor;Delivery
+ADOLESCENTE;Fanta;Es para combinar con licor;Delivery
+ADOLESCENTE;Guarana;Su publicidad es divertida;Delivery
+ADOLESCENTE;Fanta;Es para combinar con licor;Delivery
+ADOLESCENTE;Coca Cola;Es para combinar con licor;Delivery
+ADOLESCENTE;Guarana;Es una marca de calidad;Delivery
+ADOLESCENTE;Coca Cola;Fácil de encontrar;Cualquier lugar
+ADOLESCENTE;Guarana;Tiene buen sabor;Cualquier lugar
+ADOLESCENTE;Pepsi;Tiene garantía;Supermercado o tienda
+ADOLESCENTE;Pepsi;Es para combinar con licor;Supermercado o tienda
+ADOLESCENTE;Guarana;Hace buenos descuentos;Supermercado o tienda
+ADOLESCENTE;Sprite;Es para combinar con licor;Supermercado o tienda
+ADOLESCENTE;Pepsi;Es natural;Supermercado o tienda
+ADOLESCENTE;Guarana;Su publicidad es divertida;Supermercado o tienda
+ADOLESCENTE;Fanta;Su publicidad es divertida;Supermercado o tienda
+ADOLESCENTE;Fanta;Es para combinar con licor;Supermercado o tienda
+ADOLESCENTE;Guarana;Es para combinar con licor;Supermercado o tienda
+ADOLESCENTE;Coca Cola;Es una marca de calidad;Supermercado o tienda
+ADOLESCENTE;Inca Kola;Tiene garantía;Supermercado o tienda
+ADOLESCENTE;Inca Kola;Fácil de encontrar;Supermercado o tienda
+ADOLESCENTE;Sprite;Es para combinar con licor;Supermercado o tienda
+ADOLESCENTE;Guarana;Su publicidad es divertida;Supermercado o tienda
+ADOLESCENTE;Sprite;Es natural;Supermercado o tienda
+ADOLESCENTE;Sprite;Quita la sed;Cualquier lugar
+ADOLESCENTE;Sprite;Tiene buen sabor;Cualquier lugar
+ADOLESCENTE;Sprite;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Fanta;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Inca Kola;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Coca Cola;Es una marca de calidad;Cualquier lugar
+ADOLESCENTE;Guarana;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Pepsi;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Pepsi;Quita la sed;Cualquier lugar
+ADOLESCENTE;Pepsi;Tiene buen sabor;Cualquier lugar
+ADOLESCENTE;Guarana;Hace buenos descuentos;Cualquier lugar
+ADOLESCENTE;Pepsi;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Guarana;Tiene garantía;Cualquier lugar
+ADOLESCENTE;Guarana;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Guarana;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Sprite;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Sprite;Fácil de encontrar;Cualquier lugar
+ADOLESCENTE;Coca Cola;Tiene garantía;Cualquier lugar
+ADOLESCENTE;Inca Kola;Es una marca de calidad;Cualquier lugar
+ADOLESCENTE;Inca Kola;Tiene buen sabor;Cualquier lugar
+ADOLESCENTE;Guarana;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Pepsi;Hace buenos descuentos;Cualquier lugar
+ADOLESCENTE;Pepsi;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Sprite;Quita la sed;Cualquier lugar
+ADOLESCENTE;Sprite;Es natural;Cualquier lugar
+ADOLESCENTE;Sprite;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Fanta;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Fanta;Fácil de encontrar;Cualquier lugar
+ADOLESCENTE;Fanta;Es natural;Cualquier lugar
+ADOLESCENTE;Coca Cola;Quita la sed;Cualquier lugar
+ADOLESCENTE;Sprite;Es natural;Cualquier lugar
+ADOLESCENTE;Pepsi;Es natural;Cualquier lugar
+ADOLESCENTE;Coca Cola;Tiene buen sabor;Cualquier lugar
+ADOLESCENTE;Guarana;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Guarana;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Sprite;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Guarana;Tiene garantía;Cualquier lugar
+ADOLESCENTE;Sprite;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Sprite;Fácil de encontrar;Cualquier lugar
+ADOLESCENTE;Fanta;Es una marca de calidad;Cualquier lugar
+ADOLESCENTE;Fanta;Es una marca peruana;Cualquier lugar
+ADOLESCENTE;Coca Cola;Tiene garantía;Cualquier lugar
+ADOLESCENTE;Sprite;Es una marca de calidad;Cualquier lugar
+ADOLESCENTE;Inca Kola;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Guarana;Quita la sed;Cualquier lugar
+ADOLESCENTE;Guarana;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Guarana;Hace buenos descuentos;Cualquier lugar
+ADOLESCENTE;Guarana;Es una marca peruana;Cualquier lugar
+ADOLESCENTE;Sprite;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Sprite;Es natural;Cualquier lugar
+ADOLESCENTE;Sprite;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Fanta;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Fanta;Tiene buen sabor;Cualquier lugar
+ADOLESCENTE;Coca Cola;Quita la sed;Cualquier lugar
+ADOLESCENTE;Guarana;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Coca Cola;Fácil de encontrar;Cualquier lugar
+ADOLESCENTE;Coca Cola;Tiene buen sabor;Cualquier lugar
+ADOLESCENTE;Inca Kola;Tiene garantía;Cualquier lugar
+ADOLESCENTE;Guarana;Hace buenos descuentos;Cualquier lugar
+ADOLESCENTE;Pepsi;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Pepsi;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Guarana;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Sprite;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Sprite;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Sprite;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Coca Cola;Tiene garantía;Cualquier lugar
+ADOLESCENTE;Inca Kola;Es natural;Cualquier lugar
+ADOLESCENTE;Guarana;Quita la sed;Cualquier lugar
+ADOLESCENTE;Inca Kola;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Pepsi;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Coca Cola;Tiene buen sabor;Cualquier lugar
+ADOLESCENTE;Sprite;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Pepsi;Tiene buenos canjes;Cualquier lugar
+ADOLESCENTE;Guarana;Es una marca peruana;Cualquier lugar
+ADOLESCENTE;Pepsi;Hace buenos descuentos;Cualquier lugar
+ADOLESCENTE;Sprite;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Fanta;Es una marca de calidad;Cualquier lugar
+ADOLESCENTE;Coca Cola;Es una marca de calidad;Supermercado o tienda
+ADOLESCENTE;Guarana;Su publicidad es divertida;Supermercado o tienda
+ADOLESCENTE;Inca Kola;Hace buenos descuentos;Supermercado o tienda
+ADOLESCENTE;Sprite;Es para combinar con licor;Supermercado o tienda
+ADOLESCENTE;Guarana;Fácil de encontrar;Supermercado o tienda
+ADOLESCENTE;Sprite;Su publicidad es divertida;Supermercado o tienda
+ADOLESCENTE;Sprite;Su publicidad es divertida;Supermercado o tienda
+ADOLESCENTE;Sprite;Tiene garantía;Supermercado o tienda
+ADOLESCENTE;Guarana;Es una marca peruana;Supermercado o tienda
+ADOLESCENTE;Sprite;Es natural;Supermercado o tienda
+ADOLESCENTE;Fanta;Quita la sed;Supermercado o tienda
+ADOLESCENTE;Fanta;Tiene buen sabor;Supermercado o tienda
+ADOLESCENTE;Coca Cola;Quita la sed;Supermercado o tienda
+ADOLESCENTE;Inca Kola;Es natural;Supermercado o tienda
+ADOLESCENTE;Guarana;Tiene garantía;Supermercado o tienda
+ADOLESCENTE;Guarana;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Guarana;Tiene buen sabor;Cualquier lugar
+ADOLESCENTE;Inca Kola;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Pepsi;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Pepsi;Fácil de encontrar;Cualquier lugar
+ADOLESCENTE;Sprite;Tiene buenos canjes;Cualquier lugar
+ADOLESCENTE;Guarana;Es natural;Cualquier lugar
+ADOLESCENTE;Sprite;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Sprite;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Sprite;Es una marca de calidad;Cualquier lugar
+ADOLESCENTE;Coca Cola;Tiene buen sabor;Cualquier lugar
+ADOLESCENTE;Inca Kola;Es natural;Cualquier lugar
+ADOLESCENTE;Inca Kola;Quita la sed;Cualquier lugar
+ADOLESCENTE;Sprite;Su publicidad es divertida;Cualquier lugar
+ADOLESCENTE;Inca Kola;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Coca Cola;Tiene garantía;Cualquier lugar
+ADOLESCENTE;Pepsi;Fácil de encontrar;Cualquier lugar
+ADOLESCENTE;Pepsi;Es para combinar con licor;Cualquier lugar
+ADOLESCENTE;Guarana;Es para combinar con licor;Cualquier lugar
+JOVEN;Pepsi;Es para combinar con licor;Delivery
+JOVEN;Fanta;Hace buenos descuentos;Delivery
+JOVEN;Coca Cola;Quita la sed;Delivery
+JOVEN;Pepsi;Fácil de encontrar;Delivery
+JOVEN;Inca Kola;Tiene garantía;Delivery
+JOVEN;Coca Cola;Es una marca de calidad;Delivery
+JOVEN;Pepsi;Tiene buen sabor;Delivery
+JOVEN;Pepsi;Hace buenos descuentos;Delivery
+JOVEN;Guarana;Es una marca peruana;Delivery
+JOVEN;Guarana;Es para combinar con licor;Delivery
+JOVEN;Pepsi;Es para combinar con licor;Delivery
+JOVEN;Pepsi;Es natural;Delivery
+JOVEN;Sprite;Su publicidad es divertida;Delivery
+JOVEN;Sprite;Tiene buenos canjes;Cualquier lugar
+JOVEN;Coca Cola;Es para combinar con licor;Cualquier lugar
+JOVEN;Coca Cola;Tiene garantía;Cualquier lugar
+JOVEN;Inca Kola;Es natural;Cualquier lugar
+JOVEN;Inca Kola;Su publicidad es divertida;Cualquier lugar
+JOVEN;Pepsi;Es una marca de calidad;Cualquier lugar
+JOVEN;Pepsi;Tiene buen sabor;Cualquier lugar
+JOVEN;Inca Kola;Fácil de encontrar;Cualquier lugar
+JOVEN;Inca Kola;Tiene buenos canjes;Cualquier lugar
+JOVEN;Pepsi;Hace buenos descuentos;Cualquier lugar
+JOVEN;Fanta;Es para combinar con licor;Cualquier lugar
+JOVEN;Pepsi;Es para combinar con licor;Cualquier lugar
+JOVEN;Guarana;Es para combinar con licor;Cualquier lugar
+JOVEN;Coca Cola;Tiene buen sabor;Delivery
+JOVEN;Pepsi;Fácil de encontrar;Delivery
+JOVEN;Fanta;Es para combinar con licor;Delivery
+JOVEN;Pepsi;Tiene buenos canjes;Delivery
+JOVEN;Guarana;Hace buenos descuentos;Delivery
+JOVEN;Pepsi;Es una marca peruana;Delivery
+JOVEN;Sprite;Su publicidad es divertida;Delivery
+JOVEN;Sprite;Su publicidad es divertida;Delivery
+JOVEN;Pepsi;Es una marca de calidad;Delivery
+JOVEN;Pepsi;Tiene garantía;Delivery
+JOVEN;Fanta;Quita la sed;Delivery
+JOVEN;Fanta;Su publicidad es divertida;Delivery
+JOVEN;Coca Cola;Tiene garantía;Delivery
+JOVEN;Inca Kola;Quita la sed;Delivery
+JOVEN;Inca Kola;Es una marca de calidad;Delivery
+JOVEN;Pepsi;Hace buenos descuentos;Delivery
+JOVEN;Pepsi;Es natural;Delivery
+JOVEN;Coca Cola;Tiene buen sabor;Delivery
+JOVEN;Guarana;Es para combinar con licor;Delivery
+JOVEN;Sprite;Es para combinar con licor;Delivery
+JOVEN;Sprite;Su publicidad es divertida;Delivery
+JOVEN;Sprite;Fácil de encontrar;Delivery
+JOVEN;Pepsi;Es una marca peruana;Delivery
+JOVEN;Fanta;Tiene buenos canjes;Delivery
+JOVEN;Coca Cola;Quita la sed;Delivery
+JOVEN;Inca Kola;Es una marca de calidad;Delivery
+JOVEN;Inca Kola;Tiene buen sabor;Delivery
+JOVEN;Pepsi;Hace buenos descuentos;Delivery
+JOVEN;Coca Cola;Su publicidad es divertida;Delivery
+JOVEN;Coca Cola;Tiene garantía;Delivery
+JOVEN;Guarana;Es una marca peruana;Delivery
+JOVEN;Sprite;Es para combinar con licor;Delivery
+JOVEN;Pepsi;Es natural;Delivery
+JOVEN;Pepsi;Su publicidad es divertida;Delivery
+JOVEN;Fanta;Su publicidad es divertida;Supermercado o tienda
+JOVEN;Fanta;Su publicidad es divertida;Supermercado o tienda
+JOVEN;Coca Cola;Es para combinar con licor;Supermercado o tienda
+JOVEN;Coca Cola;Es una marca de calidad;Supermercado o tienda
+JOVEN;Inca Kola;Fácil de encontrar;Supermercado o tienda
+JOVEN;Pepsi;Tiene buenos canjes;Supermercado o tienda
+JOVEN;Pepsi;Hace buenos descuentos;Supermercado o tienda
+JOVEN;Pepsi;Tiene buen sabor;Supermercado o tienda
+JOVEN;Pepsi;Es para combinar con licor;Supermercado o tienda
+JOVEN;Guarana;Es natural;Supermercado o tienda
+JOVEN;Coca Cola;Tiene garantía;Supermercado o tienda
+JOVEN;Sprite;Su publicidad es divertida;Supermercado o tienda
+JOVEN;Pepsi;Es una marca peruana;Supermercado o tienda
+JOVEN;Fanta;Quita la sed;Supermercado o tienda
+JOVEN;Coca Cola;Tiene garantía;Supermercado o tienda
+JOVEN;Coca Cola;Es una marca de calidad;Supermercado o tienda
+JOVEN;Coca Cola;Fácil de encontrar;Supermercado o tienda
+JOVEN;Inca Kola;Quita la sed;Supermercado o tienda
+JOVEN;Inca Kola;Su publicidad es divertida;Supermercado o tienda
+JOVEN;Guarana;Es para combinar con licor;Supermercado o tienda
+JOVEN;Pepsi;Tiene buen sabor;Supermercado o tienda
+JOVEN;Pepsi;Tiene buenos canjes;Supermercado o tienda
+JOVEN;Guarana;Es una marca peruana;Supermercado o tienda
+JOVEN;Pepsi;Es para combinar con licor;Supermercado o tienda
+JOVEN;Sprite;Su publicidad es divertida;Supermercado o tienda
+JOVEN;Sprite;Hace buenos descuentos;Supermercado o tienda
+JOVEN;Coca Cola;Es una marca de calidad;Supermercado o tienda
+JOVEN;Inca Kola;Es una marca peruana;Delivery
+JOVEN;Pepsi;Es para combinar con licor;Delivery
+JOVEN;Guarana;Fácil de encontrar;Delivery
+JOVEN;Guarana;Tiene buenos canjes;Delivery
+JOVEN;Pepsi;Es para combinar con licor;Delivery
+JOVEN;Pepsi;Es natural;Delivery
+JOVEN;Sprite;Tiene garantía;Cualquier lugar
+JOVEN;Sprite;Su publicidad es divertida;Cualquier lugar
+JOVEN;Coca Cola;Tiene buen sabor;Cualquier lugar
+JOVEN;Fanta;Su publicidad es divertida;Cualquier lugar
+JOVEN;Fanta;Hace buenos descuentos;Cualquier lugar
+JOVEN;Coca Cola;Tiene garantía;Cualquier lugar
+JOVEN;Coca Cola;Fácil de encontrar;Cualquier lugar
+JOVEN;Pepsi;Tiene buenos canjes;Cualquier lugar
+JOVEN;Guarana;Hace buenos descuentos;Cualquier lugar
+JOVEN;Guarana;Es una marca peruana;Cualquier lugar
+JOVEN;Pepsi;Quita la sed;Cualquier lugar
+JOVEN;Sprite;Es para combinar con licor;Cualquier lugar
+JOVEN;Sprite;Es para combinar con licor;Cualquier lugar
+JOVEN;Sprite;Su publicidad es divertida;Delivery
+JOVEN;Pepsi;Es una marca de calidad;Delivery
+JOVEN;Pepsi;Tiene buen sabor;Delivery
+JOVEN;Fanta;Su publicidad es divertida;Delivery
+JOVEN;Coca Cola;Tiene garantía;Delivery
+JOVEN;Guarana;Es para combinar con licor;Delivery
+JOVEN;Coca Cola;Quita la sed;Delivery
+JOVEN;Guarana;Su publicidad es divertida;Delivery
+JOVEN;Coca Cola;Fácil de encontrar;Delivery
+JOVEN;Guarana;Hace buenos descuentos;Delivery
+JOVEN;Guarana;Es una marca peruana;Delivery
+JOVEN;Sprite;Es para combinar con licor;Delivery
+JOVEN;Pepsi;Es natural;Delivery
+JOVEN;Pepsi;Tiene buenos canjes;Delivery
+JOVEN;Fanta;Es una marca de calidad;Delivery
+JOVEN;Coca Cola;Tiene buen sabor;Supermercado o tienda
+JOVEN;Coca Cola;Tiene garantía;Supermercado o tienda
+JOVEN;Inca Kola;Quita la sed;Supermercado o tienda
+JOVEN;Pepsi;Es una marca de calidad;Supermercado o tienda
+JOVEN;Pepsi;Fácil de encontrar;Supermercado o tienda
+JOVEN;Inca Kola;Es una marca peruana;Supermercado o tienda
+JOVEN;Guarana;Es para combinar con licor;Supermercado o tienda
+JOVEN;Guarana;Su publicidad es divertida;Supermercado o tienda
+JOVEN;Guarana;Tiene buenos canjes;Delivery
+JOVEN;Sprite;Es para combinar con licor;Delivery
+JOVEN;Sprite;Su publicidad es divertida;Delivery
+JOVEN;Pepsi;Su publicidad es divertida;Delivery
+JOVEN;Fanta;Tiene buen sabor;Delivery
+JOVEN;Coca Cola;Es una marca de calidad;Delivery
+JOVEN;Inca Kola;Quita la sed;Delivery
+JOVEN;Inca Kola;Fácil de encontrar;Delivery
+JOVEN;Pepsi;Tiene buenos canjes;Delivery
+JOVEN;Guarana;Tiene buen sabor;Delivery
+JOVEN;Sprite;Es para combinar con licor;Supermercado o tienda
+JOVEN;Pepsi;Es natural;Supermercado o tienda
+JOVEN;Pepsi;Hace buenos descuentos;Supermercado o tienda
+JOVEN;Sprite;Es una marca peruana;Supermercado o tienda
+JOVEN;Sprite;Su publicidad es divertida;Supermercado o tienda
+JOVEN;Fanta;Tiene garantía;Supermercado o tienda
+JOVEN;Pepsi;Su publicidad es divertida;Supermercado o tienda
+JOVEN;Coca Cola;Es para combinar con licor;Supermercado o tienda
+JOVEN;Coca Cola;Es una marca de calidad;Delivery
+JOVEN;Coca Cola;Fácil de encontrar;Delivery
+JOVEN;Coca Cola;Tiene buenos canjes;Delivery
+JOVEN;Inca Kola;Tiene garantía;Delivery
+JOVEN;Inca Kola;Quita la sed;Delivery
+JOVEN;Inca Kola;Tiene buenos canjes;Delivery
+JOVEN;Pepsi;Hace buenos descuentos;Delivery
+JOVEN;Guarana;Es una marca peruana;Delivery
+JOVEN;Sprite;Es natural;Delivery
+JOVEN;Sprite;Tiene buen sabor;Delivery
+JOVEN;Fanta;Su publicidad es divertida;Delivery
+JOVEN;Coca Cola;Tiene buen sabor;Delivery
+JOVEN;Inca Kola;Quita la sed;Delivery
+JOVEN;Inca Kola;Es una marca peruana;Delivery
+JOVEN;Pepsi;Tiene garantía;Delivery
+JOVEN;Pepsi;Fácil de encontrar;Supermercado o tienda
+JOVEN;Pepsi;Tiene buenos canjes;Supermercado o tienda
+JOVEN;Guarana;Es una marca de calidad;Supermercado o tienda
+JOVEN;Sprite;Es para combinar con licor;Supermercado o tienda
+JOVEN;Sprite;Es natural;Supermercado o tienda
+JOVEN;Fanta;Su publicidad es divertida;Supermercado o tienda
+JOVEN;Fanta;Hace buenos descuentos;Supermercado o tienda
+JOVEN;Fanta;Su publicidad es divertida;Supermercado o tienda
+JOVEN;Coca Cola;Es una marca de calidad;Delivery
+JOVEN;Inca Kola;Es una marca peruana;Delivery
+JOVEN;Pepsi;Tiene garantía;Delivery
+JOVEN;Coca Cola;Quita la sed;Delivery
+JOVEN;Guarana;Fácil de encontrar;Delivery
+JOVEN;Guarana;Hace buenos descuentos;Delivery
+JOVEN;Sprite;Es para combinar con licor;Delivery
+JOVEN;Pepsi;Es natural;Delivery
+JOVEN;Pepsi;Tiene buenos canjes;Delivery
+JOVEN;Fanta;Su publicidad es divertida;Delivery
+JOVEN;Coca Cola;Tiene buen sabor;Delivery
+JOVEN;Fanta;Su publicidad es divertida;Delivery
+JOVEN;Coca Cola;Quita la sed;Cualquier lugar
+JOVEN;Coca Cola;Es una marca de calidad;Cualquier lugar
+JOVEN;Coca Cola;Fácil de encontrar;Cualquier lugar
+JOVEN;Pepsi;Tiene buen sabor;Cualquier lugar
+JOVEN;Pepsi;Tiene garantía;Cualquier lugar
+JOVEN;Pepsi;Hace buenos descuentos;Cualquier lugar
+JOVEN;Pepsi;Tiene buenos canjes;Cualquier lugar
+JOVEN;Guarana;Es una marca peruana;Cualquier lugar
+JOVEN;Sprite;Es para combinar con licor;Delivery
+JOVEN;Sprite;Es natural;Delivery
+JOVEN;Sprite;Su publicidad es divertida;Delivery
+JOVEN;Fanta;Su publicidad es divertida;Delivery
+JOVEN;Coca Cola;Tiene garantía;Delivery
+JOVEN;Coca Cola;Fácil de encontrar;Delivery
+JOVEN;Inca Kola;Quita la sed;Delivery
+JOVEN;Coca Cola;Es una marca de calidad;Delivery
+JOVEN;Pepsi;Hace buenos descuentos;Delivery
+JOVEN;Pepsi;Tiene buenos canjes;Delivery
+ADULTO;Fanta;Es para combinar con licor;Supermercado o tienda
+ADULTO;Inca Kola;Es una marca peruana;Supermercado o tienda
+ADULTO;Inca Kola;Es para combinar con licor;Supermercado o tienda
+ADULTO;Inca Kola;Es natural;Supermercado o tienda
+ADULTO;Sprite;Su publicidad es divertida;Supermercado o tienda
+ADULTO;Fanta;Tiene buen sabor;Supermercado o tienda
+ADULTO;Inca Kola;Quita la sed;Supermercado o tienda
+ADULTO;Inca Kola;Es una marca de calidad;Supermercado o tienda
+ADULTO;Inca Kola;Fácil de encontrar;Supermercado o tienda
+ADULTO;Pepsi;Tiene buenos canjes;Supermercado o tienda
+ADULTO;Coca Cola;Tiene buen sabor;Supermercado o tienda
+ADULTO;Inca Kola;Es para combinar con licor;Supermercado o tienda
+ADULTO;Inca Kola;Es natural;Supermercado o tienda
+ADULTO;Inca Kola;Hace buenos descuentos;Supermercado o tienda
+ADULTO;Inca Kola;Es una marca peruana;Supermercado o tienda
+ADULTO;Sprite;Su publicidad es divertida;Supermercado o tienda
+ADULTO;Fanta;Tiene garantía;Supermercado o tienda
+ADULTO;Fanta;Su publicidad es divertida;Supermercado o tienda
+ADULTO;Coca Cola;Quita la sed;Supermercado o tienda
+ADULTO;Inca Kola;Tiene garantía;Supermercado o tienda
+ADULTO;Inca Kola;Es una marca peruana;Supermercado o tienda
+ADULTO;Inca Kola;Tiene buenos canjes;Supermercado o tienda
+ADULTO;Pepsi;Su publicidad es divertida;Supermercado o tienda
+ADULTO;Coca Cola;Fácil de encontrar;Supermercado o tienda
+ADULTO;Coca Cola;Tiene buenos canjes;Supermercado o tienda
+ADULTO;Guarana;Es para combinar con licor;Supermercado o tienda
+ADULTO;Sprite;Es natural;Supermercado o tienda
+ADULTO;Coca Cola;Tiene buen sabor;Supermercado o tienda
+ADULTO;Sprite;Hace buenos descuentos;Delivery
+ADULTO;Fanta;Es una marca de calidad;Delivery
+ADULTO;Coca Cola;Fácil de encontrar;Delivery
+ADULTO;Coca Cola;Tiene buenos canjes;Delivery
+ADULTO;Inca Kola;Es natural;Delivery
+ADULTO;Inca Kola;Tiene garantía;Delivery
+ADULTO;Inca Kola;Quita la sed;Delivery
+ADULTO;Inca Kola;Es una marca de calidad;Delivery
+ADULTO;Inca Kola;Tiene buenos canjes;Delivery
+ADULTO;Pepsi;Hace buenos descuentos;Delivery
+ADULTO;Guarana;Es una marca peruana;Supermercado o tienda
+ADULTO;Sprite;Es para combinar con licor;Supermercado o tienda
+ADULTO;Coca Cola;Tiene buen sabor;Supermercado o tienda
+ADULTO;Fanta;Su publicidad es divertida;Supermercado o tienda
+ADULTO;Coca Cola;Tiene buen sabor;Supermercado o tienda
+ADULTO;Inca Kola;Es natural;Supermercado o tienda
+ADULTO;Inca Kola;Quita la sed;Supermercado o tienda
+ADULTO;Inca Kola;Es una marca de calidad;Supermercado o tienda
+ADULTO;Inca Kola;Es una marca peruana;Supermercado o tienda
+ADULTO;Coca Cola;Tiene garantía;Supermercado o tienda
+ADULTO;Coca Cola;Fácil de encontrar;Supermercado o tienda
+ADULTO;Pepsi;Tiene buenos canjes;Supermercado o tienda
+ADULTO;Coca Cola;Es para combinar con licor;Supermercado o tienda
+ADULTO;Coca Cola;Su publicidad es divertida;Supermercado o tienda
+ADULTO;Inca Kola;Hace buenos descuentos;Supermercado o tienda
+ADULTO;Fanta;Su publicidad es divertida;Supermercado o tienda
+ADULTO;Coca Cola;Tiene buen sabor;Supermercado o tienda
+ADULTO;Coca Cola;Fácil de encontrar;Supermercado o tienda
+ADULTO;Inca Kola;Es natural;Supermercado o tienda
+ADULTO;Inca Kola;Tiene garantía;Supermercado o tienda
+ADULTO;Inca Kola;Quita la sed;Supermercado o tienda
+ADULTO;Inca Kola;Su publicidad es divertida;Supermercado o tienda
+ADULTO;Inca Kola;Es una marca peruana;Supermercado o tienda
+ADULTO;Pepsi;Es una marca de calidad;Supermercado o tienda
+ADULTO;Pepsi;Hace buenos descuentos;Supermercado o tienda
+ADULTO;Pepsi;Tiene buenos canjes;Supermercado o tienda
+ADULTO;Coca Cola;Tiene garantía;Supermercado o tienda
+ADULTO;Sprite;Es para combinar con licor;Supermercado o tienda
+ADULTO;Coca Cola;Quita la sed;Supermercado o tienda
+ADULTO;Coca Cola;Es una marca de calidad;Supermercado o tienda
+ADULTO;Coca Cola;Fácil de encontrar;Supermercado o tienda
+ADULTO;Inca Kola;Tiene garantía;Supermercado o tienda
+ADULTO;Pepsi;Tiene buen sabor;Supermercado o tienda
+ADULTO;Pepsi;Es una marca peruana;Supermercado o tienda
+ADULTO;Pepsi;Fácil de encontrar;Supermercado o tienda
+ADULTO;Guarana;Hace buenos descuentos;Supermercado o tienda
+ADULTO;Sprite;Es para combinar con licor;Delivery
+ADULTO;Sprite;Es natural;Delivery
+ADULTO;Coca Cola;Su publicidad es divertida;Delivery
+ADULTO;Coca Cola;Tiene buenos canjes;Delivery
+ADULTO;Coca Cola;Tiene garantía;Delivery
+ADULTO;Coca Cola;Es una marca de calidad;Delivery
+ADULTO;Coca Cola;Hace buenos descuentos;Delivery
+ADULTO;Inca Kola;Es natural;Delivery
+ADULTO;Inca Kola;Quita la sed;Delivery
+ADULTO;Inca Kola;Su publicidad es divertida;Delivery
+ADULTO;Inca Kola;Tiene buen sabor;Supermercado o tienda
+ADULTO;Inca Kola;Fácil de encontrar;Supermercado o tienda
+ADULTO;Inca Kola;Es una marca peruana;Supermercado o tienda
+ADULTO;Inca Kola;Tiene buenos canjes;Supermercado o tienda
+ADULTO;Inca Kola;Es una marca de calidad;Supermercado o tienda
+ADULTO;Sprite;Es para combinar con licor;Supermercado o tienda
+ADULTO;Coca Cola;Es para combinar con licor;Supermercado o tienda
+ADULTO;Inca Kola;Es una marca de calidad;Supermercado o tienda
+ADULTO;Inca Kola;Tiene buen sabor;Supermercado o tienda
+ADULTO;Inca Kola;Fácil de encontrar;Supermercado o tienda
+ADULTO;Inca Kola;Tiene garantía;Supermercado o tienda
+ADULTO;Pepsi;Tiene garantía;Supermercado o tienda
+ADULTO;Pepsi;Tiene buenos canjes;Supermercado o tienda
+ADULTO;Guarana;Es una marca peruana;Supermercado o tienda
+ADULTO;Guarana;Quita la sed;Supermercado o tienda
+ADULTO;Sprite;Es natural;Supermercado o tienda
+ADULTO;Fanta;Su publicidad es divertida;Supermercado o tienda
+ADULTO;Inca Kola;Hace buenos descuentos;Supermercado o tienda
+ADULTO;Coca Cola;Tiene garantía;Supermercado o tienda
+ADULTO;Inca Kola;Quita la sed;Supermercado o tienda
+ADULTO;Inca Kola;Es una marca de calidad;Supermercado o tienda
+ADULTO;Inca Kola;Tiene garantía;Supermercado o tienda
+ADULTO;Pepsi;Es para combinar con licor;Supermercado o tienda
+ADULTO;Pepsi;Su publicidad es divertida;Supermercado o tienda
+ADULTO;Inca Kola;Hace buenos descuentos;Supermercado o tienda
+ADULTO;Inca Kola;Es una marca peruana;Supermercado o tienda
+ADULTO;Guarana;Tiene buenos canjes;Supermercado o tienda
+ADULTO;Sprite;Es natural;Supermercado o tienda
+ADULTO;Sprite;Fácil de encontrar;Supermercado o tienda
+ADULTO;Inca Kola;Tiene buen sabor;Supermercado o tienda
+ADULTO;Coca Cola;Tiene buen sabor;Supermercado o tienda
+ADULTO;Inca Kola;Fácil de encontrar;Supermercado o tienda
+ADULTO;Inca Kola;Es una marca de calidad;Supermercado o tienda
+ADULTO;Inca Kola;Es natural;Supermercado o tienda
+ADULTO;Pepsi;Es para combinar con licor;Supermercado o tienda
+ADULTO;Coca Cola;Tiene garantía;Supermercado o tienda
+ADULTO;Inca Kola;Su publicidad es divertida;Supermercado o tienda
+ADULTO;Inca Kola;Hace buenos descuentos;Supermercado o tienda
+ADULTO;Inca Kola;Tiene buenos canjes;Supermercado o tienda
+ADULTO;Sprite;Quita la sed;Supermercado o tienda
+ADULTO;Inca Kola;Es una marca peruana;Supermercado o tienda
+ADULTO;Sprite;Su publicidad es divertida;Supermercado o tienda
+ADULTO;Coca Cola;Es natural;Supermercado o tienda
+ADULTO;Coca Cola;Tiene garantía;Supermercado o tienda
+ADULTO;Coca Cola;Es una marca de calidad;Supermercado o tienda
+ADULTO;Inca Kola;Quita la sed;Supermercado o tienda
+ADULTO;Inca Kola;Tiene buen sabor;Supermercado o tienda
+ADULTO;Coca Cola;Es para combinar con licor;Supermercado o tienda
+ADULTO;Coca Cola;Tiene buenos canjes;Supermercado o tienda
+ADULTO;Pepsi;Tiene garantía;Supermercado o tienda
+ADULTO;Fanta;Su publicidad es divertida;Supermercado o tienda
+ADULTO;Guarana;Hace buenos descuentos;Supermercado o tienda
+ADULTO;Guarana;Es una marca peruana;Supermercado o tienda
+ADULTO;Fanta;Fácil de encontrar;Supermercado o tienda
+ADULTO;Coca Cola;Fácil de encontrar;Supermercado o tienda
+ADULTO;Inca Kola;Tiene garantía;Supermercado o tienda
+ADULTO;Pepsi;Hace buenos descuentos;Supermercado o tienda
+ADULTO;Coca Cola;Es una marca de calidad;Supermercado o tienda
+ADULTO;Pepsi;Tiene buenos canjes;Supermercado o tienda
+ADULTO;Inca Kola;Es para combinar con licor;Supermercado o tienda
+ADULTO;Sprite;Es natural;Supermercado o tienda
+ADULTO;Fanta;Quita la sed;Supermercado o tienda
+ADULTO;Fanta;Su publicidad es divertida;Supermercado o tienda
+ADULTO;Coca Cola;Tiene buen sabor;Supermercado o tienda
+ADULTO;Inca Kola;Es una marca peruana;Supermercado o tienda
+ADULTO;Fanta;Su publicidad es divertida;Supermercado o tienda
+ADULTO;Coca Cola;Es una marca de calidad;Supermercado o tienda
+ADULTO;Coca Cola;Fácil de encontrar;Supermercado o tienda
+ADULTO;Inca Kola;Hace buenos descuentos;Supermercado o tienda
+ADULTO;Inca Kola;Es una marca peruana;Supermercado o tienda
+ADULTO;Pepsi;Tiene buenos canjes;Supermercado o tienda
+ADULTO;Sprite;Es para combinar con licor;Supermercado o tienda
+ADULTO;Coca Cola;Es natural;Supermercado o tienda
+ADULTO;Inca Kola;Tiene buen sabor;Supermercado o tienda
+ADULTO;Fanta;Tiene garantía;Supermercado o tienda
+ADULTO;Fanta;Quita la sed;Supermercado o tienda
+ADULTO;Fanta;Su publicidad es divertida;Supermercado o tienda
+ADULTO;Fanta;Su publicidad es divertida;Supermercado o tienda
+ADULTO;Coca Cola;Quita la sed;Supermercado o tienda
+ADULTO;Coca Cola;Tiene buen sabor;Supermercado o tienda
+ADULTO;Coca Cola;Es una marca peruana;Supermercado o tienda
+ADULTO;Inca Kola;Es natural;Supermercado o tienda
+ADULTO;Inca Kola;Tiene garantía;Supermercado o tienda
+ADULTO;Inca Kola;Es una marca de calidad;Supermercado o tienda
+ADULTO;Inca Kola;Tiene garantía;Supermercado o tienda
+ADULTO;Pepsi;Tiene buenos canjes;Supermercado o tienda
+ADULTO;Fanta;Es para combinar con licor;Supermercado o tienda
+ADULTO;Fanta;Su publicidad es divertida;Supermercado o tienda
+ADULTO;Fanta;Fácil de encontrar;Supermercado o tienda
+ADULTO;Fanta;Hace buenos descuentos;Supermercado o tienda
+ADULTO;Coca Cola;Es para combinar con licor;Supermercado o tienda
+ADULTO;Coca Cola;Fácil de encontrar;Supermercado o tienda
+ADULTO;Coca Cola;Tiene buen sabor;Supermercado o tienda
+ADULTO;Inca Kola;Tiene garantía;Supermercado o tienda
+ADULTO;Coca Cola;Tiene garantía;Supermercado o tienda
+ADULTO;Pepsi;Quita la sed;Supermercado o tienda
+ADULTO;Pepsi;Su publicidad es divertida;Supermercado o tienda
+ADULTO;Pepsi;Es una marca de calidad;Supermercado o tienda
+ADULTO;Pepsi;Hace buenos descuentos;Supermercado o tienda
+ADULTO;Pepsi;Tiene buenos canjes;Supermercado o tienda
+ADULTO;Guarana;Es natural;Supermercado o tienda
+ADULTO;Guarana;Es una marca peruana;Supermercado o tienda
+ADULTO;Coca Cola;Es para combinar con licor;Supermercado o tienda
+ADULTO;Inca Kola;Tiene garantía;Supermercado o tienda
+ADULTO;Inca Kola;Fácil de encontrar;Supermercado o tienda
+ADULTO;Inca Kola;Tiene garantía;Supermercado o tienda
+ADULTO;Pepsi;Es natural;Supermercado o tienda
+ADULTO;Pepsi;Es una marca de calidad;Supermercado o tienda
+ADULTO;Guarana;Tiene buenos canjes;Supermercado o tienda
+ADULTO;Sprite;Quita la sed;Supermercado o tienda
+ADULTO;Coca Cola;Tiene buen sabor;Supermercado o tienda
+ADULTO;Sprite;Hace buenos descuentos;Supermercado o tienda
+ADULTO;Fanta;Su publicidad es divertida;Supermercado o tienda
+ADULTO;Fanta;Es una marca peruana;Supermercado o tienda
+ADULTO;Coca Cola;Es natural;Supermercado o tienda
+ADULTO;Coca Cola;Es una marca peruana;Supermercado o tienda
+TERCERA EDAD;Inca Kola;Tiene garantía;Delivery
+TERCERA EDAD;Pepsi;Es para combinar con licor;Delivery
+TERCERA EDAD;Coca Cola;Quita la sed;Delivery
+TERCERA EDAD;Pepsi;Su publicidad es divertida;Delivery
+TERCERA EDAD;Coca Cola;Es una marca de calidad;Delivery
+TERCERA EDAD;Pepsi;Tiene buen sabor;Delivery
+TERCERA EDAD;Pepsi;Hace buenos descuentos;Delivery
+TERCERA EDAD;Pepsi;Tiene buenos canjes;Delivery
+TERCERA EDAD;Guarana;Tiene garantía;Delivery
+TERCERA EDAD;Coca Cola;Fácil de encontrar;Delivery
+TERCERA EDAD;Coca Cola;Es para combinar con licor;Delivery
+TERCERA EDAD;Coca Cola;Tiene garantía;Delivery
+TERCERA EDAD;Coca Cola;Es una marca de calidad;Delivery
+TERCERA EDAD;Inca Kola;Fácil de encontrar;Delivery
+TERCERA EDAD;Pepsi;Hace buenos descuentos;Delivery
+TERCERA EDAD;Pepsi;Quita la sed;Delivery
+TERCERA EDAD;Coca Cola;Tiene buen sabor;Delivery
+TERCERA EDAD;Pepsi;Es una marca peruana;Delivery
+TERCERA EDAD;Pepsi;Tiene buenos canjes;Delivery
+TERCERA EDAD;Coca Cola;Su publicidad es divertida;Delivery
+TERCERA EDAD;Guarana;Su publicidad es divertida;Delivery
+TERCERA EDAD;Coca Cola;Es natural;Delivery
+TERCERA EDAD;Coca Cola;Quita la sed;Delivery
+TERCERA EDAD;Inca Kola;Es una marca de calidad;Supermercado o tienda
+TERCERA EDAD;Inca Kola;Tiene buen sabor;Supermercado o tienda
+TERCERA EDAD;Pepsi;Hace buenos descuentos;Supermercado o tienda
+TERCERA EDAD;Inca Kola;Es una marca peruana;Supermercado o tienda
+TERCERA EDAD;Coca Cola;Tiene garantía;Supermercado o tienda
+TERCERA EDAD;Guarana;Tiene garantía;Supermercado o tienda
+TERCERA EDAD;Sprite;Es natural;Supermercado o tienda
+TERCERA EDAD;Sprite;Su publicidad es divertida;Supermercado o tienda
+TERCERA EDAD;Fanta;Es para combinar con licor;Supermercado o tienda
+TERCERA EDAD;Coca Cola;Fácil de encontrar;Supermercado o tienda
+TERCERA EDAD;Coca Cola;Tiene buenos canjes;Supermercado o tienda
+TERCERA EDAD;Coca Cola;Es para combinar con licor;Supermercado o tienda
+TERCERA EDAD;Coca Cola;Tiene garantía;Supermercado o tienda
+TERCERA EDAD;Coca Cola;Fácil de encontrar;Supermercado o tienda
+TERCERA EDAD;Inca Kola;Su publicidad es divertida;Supermercado o tienda
+TERCERA EDAD;Inca Kola;Tiene buen sabor;Supermercado o tienda
+TERCERA EDAD;Inca Kola;Es una marca peruana;Delivery
+TERCERA EDAD;Inca Kola;Es natural;Delivery
+TERCERA EDAD;Coca Cola;Quita la sed;Delivery
+TERCERA EDAD;Coca Cola;Es una marca de calidad;Delivery
+TERCERA EDAD;Pepsi;Tiene buenos canjes;Delivery
+TERCERA EDAD;Sprite;Es natural;Delivery
+TERCERA EDAD;Sprite;Hace buenos descuentos;Delivery
+TERCERA EDAD;Coca Cola;Es una marca de calidad;Supermercado o tienda
+TERCERA EDAD;Coca Cola;Es una marca de calidad;Supermercado o tienda
+TERCERA EDAD;Inca Kola;Quita la sed;Supermercado o tienda
+TERCERA EDAD;Inca Kola;Su publicidad es divertida;Supermercado o tienda
+TERCERA EDAD;Coca Cola;Hace buenos descuentos;Supermercado o tienda
+TERCERA EDAD;Inca Kola;Tiene buenos canjes;Supermercado o tienda
+TERCERA EDAD;Pepsi;Es natural;Supermercado o tienda
+TERCERA EDAD;Coca Cola;Es una marca de calidad;Supermercado o tienda
+TERCERA EDAD;Pepsi;Es una marca de calidad;Supermercado o tienda
+TERCERA EDAD;Pepsi;Tiene buenos canjes;Supermercado o tienda
+TERCERA EDAD;Guarana;Es una marca peruana;Supermercado o tienda
+TERCERA EDAD;Sprite;Es para combinar con licor;Supermercado o tienda
+TERCERA EDAD;Coca Cola;Es una marca de calidad;Supermercado o tienda
+TERCERA EDAD;Coca Cola;Hace buenos descuentos;Supermercado o tienda
+TERCERA EDAD;Pepsi;Es para combinar con licor;Supermercado o tienda
+TERCERA EDAD;Pepsi;Tiene buenos canjes;Supermercado o tienda
+TERCERA EDAD;Coca Cola;Fácil de encontrar;Delivery
+TERCERA EDAD;Guarana;Tiene buenos canjes;Delivery
+TERCERA EDAD;Sprite;Es natural;Delivery
+TERCERA EDAD;Sprite;Tiene garantía;Delivery
+TERCERA EDAD;Sprite;Tiene buenos canjes;Delivery
+TERCERA EDAD;Sprite;Tiene buenos canjes;Delivery
+TERCERA EDAD;Coca Cola;Su publicidad es divertida;Delivery
+TERCERA EDAD;Inca Kola;Es una marca peruana;Delivery
+TERCERA EDAD;Coca Cola;Tiene garantía;Delivery
+TERCERA EDAD;Coca Cola;Fácil de encontrar;Delivery
+TERCERA EDAD;Inca Kola;Tiene buenos canjes;Delivery
+TERCERA EDAD;Inca Kola;Tiene garantía;Delivery
+TERCERA EDAD;Coca Cola;Tiene buenos canjes;Delivery
+TERCERA EDAD;Coca Cola;Es una marca de calidad;Delivery
+TERCERA EDAD;Guarana;Hace buenos descuentos;Delivery
+TERCERA EDAD;Guarana;Es una marca peruana;Delivery
+TERCERA EDAD;Sprite;Es natural;Delivery
+TERCERA EDAD;Sprite;Es para combinar con licor;Delivery
+TERCERA EDAD;Sprite;Tiene buenos canjes;Delivery
+TERCERA EDAD;Fanta;Su publicidad es divertida;Delivery
+TERCERA EDAD;Inca Kola;Tiene garantía;Delivery
+TERCERA EDAD;Coca Cola;Tiene garantía;Delivery
+TERCERA EDAD;Pepsi;Es una marca de calidad;Delivery
+TERCERA EDAD;Guarana;Tiene buenos canjes;Delivery
+TERCERA EDAD;Coca Cola;Quita la sed;Delivery
+TERCERA EDAD;Coca Cola;Fácil de encontrar;Delivery
+TERCERA EDAD;Guarana;Hace buenos descuentos;Delivery
+TERCERA EDAD;Guarana;Es una marca peruana;Delivery
+TERCERA EDAD;Sprite;Tiene buenos canjes;Delivery
+TERCERA EDAD;Sprite;Tiene buenos canjes;Delivery
+TERCERA EDAD;Fanta;Su publicidad es divertida;Delivery
+TERCERA EDAD;Coca Cola;Tiene buen sabor;Delivery
+TERCERA EDAD;Coca Cola;Tiene buenos canjes;Delivery
+TERCERA EDAD;Coca Cola;Es una marca de calidad;Delivery
+TERCERA EDAD;Coca Cola;Fácil de encontrar;Delivery
+TERCERA EDAD;Coca Cola;Tiene garantía;Delivery
+TERCERA EDAD;Inca Kola;Tiene buenos canjes;Delivery
+TERCERA EDAD;Inca Kola;Tiene garantía;Delivery
+TERCERA EDAD;Pepsi;Tiene buenos canjes;Delivery
+TERCERA EDAD;Pepsi;Tiene buenos canjes;Delivery
+TERCERA EDAD;Guarana;Tiene buen sabor;Delivery
+TERCERA EDAD;Guarana;Es una marca peruana;Delivery
+TERCERA EDAD;Sprite;Su publicidad es divertida;Delivery
+TERCERA EDAD;Sprite;Hace buenos descuentos;Delivery
+TERCERA EDAD;Coca Cola;Es para combinar con licor;Delivery
+TERCERA EDAD;Coca Cola;Tiene garantía;Delivery
+TERCERA EDAD;Inca Kola;Tiene buenos canjes;Delivery
+TERCERA EDAD;Inca Kola;Tiene buenos canjes;Delivery
+TERCERA EDAD;Pepsi;Tiene buenos canjes;Delivery
+TERCERA EDAD;Coca Cola;Es una marca de calidad;Delivery
+TERCERA EDAD;Pepsi;Tiene buen sabor;Delivery
+TERCERA EDAD;Pepsi;Hace buenos descuentos;Delivery
+TERCERA EDAD;Pepsi;Tiene buenos canjes;Delivery
+TERCERA EDAD;Coca Cola;Tiene buenos canjes;Delivery
+TERCERA EDAD;Sprite;Tiene buenos canjes;Delivery
+TERCERA EDAD;Fanta;Su publicidad es divertida;Delivery
+TERCERA EDAD;Coca Cola;Es para combinar con licor;Delivery
+TERCERA EDAD;Inca Kola;Su publicidad es divertida;Delivery
+TERCERA EDAD;Inca Kola;Tiene buenos canjes;Delivery
+TERCERA EDAD;Inca Kola;Tiene buenos canjes;Delivery
+TERCERA EDAD;Pepsi;Es una marca de calidad;Delivery
+TERCERA EDAD;Guarana;Fácil de encontrar;Delivery
+TERCERA EDAD;Sprite;Es natural;Delivery
+TERCERA EDAD;Coca Cola;Tiene buenos canjes;Delivery
+TERCERA EDAD;Inca Kola;Es una marca peruana;Delivery
+TERCERA EDAD;Pepsi;Tiene buenos canjes;Delivery
+TERCERA EDAD;Coca Cola;Tiene buenos canjes;Delivery
+TERCERA EDAD;Coca Cola;Tiene buenos canjes;Delivery
+TERCERA EDAD;Pepsi;Fácil de encontrar;Delivery
+TERCERA EDAD;Pepsi;Fácil de encontrar;Delivery
+TERCERA EDAD;Pepsi;Es natural;Delivery
+TERCERA EDAD;Inca Kola;Tiene buenos canjes;Delivery
+TERCERA EDAD;Inca Kola;Tiene buenos canjes;Delivery
+TERCERA EDAD;Inca Kola;Es una marca de calidad;Delivery
+TERCERA EDAD;Pepsi;Su publicidad es divertida;Delivery
+TERCERA EDAD;Pepsi;Fácil de encontrar;Delivery
+TERCERA EDAD;Pepsi;Tiene buenos canjes;Delivery
+TERCERA EDAD;Coca Cola;Tiene buen sabor;Delivery
+TERCERA EDAD;Coca Cola;Tiene buen sabor;Delivery
+TERCERA EDAD;Coca Cola;Es una marca de calidad;Delivery
+TERCERA EDAD;Coca Cola;Fácil de encontrar;Delivery
+TERCERA EDAD;Pepsi;Tiene buenos canjes;Delivery
+TERCERA EDAD;Inca Kola;Tiene buenos canjes;Delivery
+TERCERA EDAD;Inca Kola;Tiene garantía;Delivery
+TERCERA EDAD;Inca Kola;Tiene buenos canjes;Delivery
+TERCERA EDAD;Inca Kola;Tiene buenos canjes;Delivery
+TERCERA EDAD;Pepsi;Es una marca de calidad;Delivery
+TERCERA EDAD;Pepsi;Hace buenos descuentos;Delivery
+TERCERA EDAD;Guarana;Es una marca peruana;Delivery
+TERCERA EDAD;Sprite;Es para combinar con licor;Delivery
+TERCERA EDAD;Coca Cola;Tiene buen sabor;Delivery
+TERCERA EDAD;Fanta;Su publicidad es divertida;Delivery
+TERCERA EDAD;Coca Cola;Tiene garantía;Delivery
+TERCERA EDAD;Pepsi;Fácil de encontrar;Delivery
+TERCERA EDAD;Coca Cola;Tiene buen sabor;Delivery
+TERCERA EDAD;Pepsi;Hace buenos descuentos;Delivery
+TERCERA EDAD;Pepsi;Tiene buenos canjes;Delivery
+TERCERA EDAD;Guarana;Es una marca peruana;Delivery
+TERCERA EDAD;Guarana;Es una marca de calidad;Delivery
+TERCERA EDAD;Pepsi;Es natural;Delivery
+TERCERA EDAD;Inca Kola;Es una marca de calidad;Delivery
+TERCERA EDAD;Pepsi;Quita la sed;Delivery
+TERCERA EDAD;Pepsi;Fácil de encontrar;Delivery
+TERCERA EDAD;Pepsi;Su publicidad es divertida;Delivery
+TERCERA EDAD;Coca Cola;Tiene buen sabor;Delivery
+TERCERA EDAD;Coca Cola;Es una marca de calidad;Delivery
+TERCERA EDAD;Coca Cola;Es una marca de calidad;Delivery
+TERCERA EDAD;Inca Kola;Es natural;Delivery
+TERCERA EDAD;Inca Kola;Quita la sed;Delivery
+TERCERA EDAD;Inca Kola;Es una marca peruana;Delivery
+TERCERA EDAD;Pepsi;Tiene garantía;Delivery
+TERCERA EDAD;Pepsi;Fácil de encontrar;Delivery
+TERCERA EDAD;Pepsi;Tiene buenos canjes;Delivery
+TERCERA EDAD;Inca Kola;Es una marca de calidad;Cualquier lugar
+TERCERA EDAD;Fanta;Su publicidad es divertida;Cualquier lugar
+TERCERA EDAD;Fanta;Hace buenos descuentos;Delivery
+TERCERA EDAD;Coca Cola;Tiene buen sabor;Delivery
+TERCERA EDAD;Coca Cola;Fácil de encontrar;Delivery
+TERCERA EDAD;Pepsi;Tiene garantía;Delivery
+TERCERA EDAD;Pepsi;Quita la sed;Delivery
+TERCERA EDAD;Inca Kola;Es una marca peruana;Cualquier lugar
+TERCERA EDAD;Pepsi;Es una marca de calidad;Cualquier lugar
+TERCERA EDAD;Pepsi;Hace buenos descuentos;Delivery
+TERCERA EDAD;Pepsi;Tiene buenos canjes;Delivery
+TERCERA EDAD;Coca Cola;Es una marca de calidad;Delivery
+TERCERA EDAD;Inca Kola;Es una marca de calidad;Delivery
+TERCERA EDAD;Pepsi;Es natural;Delivery
+TERCERA EDAD;Fanta;Su publicidad es divertida;Delivery
+TERCERA EDAD;Pepsi;Quita la sed;Delivery
+TERCERA EDAD;Pepsi;Fácil de encontrar;Delivery
+TERCERA EDAD;Inca Kola;Es una marca de calidad;Cualquier lugar
+TERCERA EDAD;Inca Kola;Es una marca peruana;Cualquier lugar
+TERCERA EDAD;Coca Cola;Su publicidad es divertida;Delivery
+TERCERA EDAD;Pepsi;Tiene buen sabor;Delivery
+TERCERA EDAD;Pepsi;Hace buenos descuentos;Delivery
+TERCERA EDAD;Guarana;Es una marca de calidad;Delivery
+TERCERA EDAD;Sprite;Es para combinar con licor;Delivery
+TERCERA EDAD;Inca Kola;Es natural;Delivery
